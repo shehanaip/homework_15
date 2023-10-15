@@ -1,0 +1,150 @@
+
+li{
+    padding-left: 15px;
+    
+}
+
+.h3{
+    color: #353535;
+  
+}
+.navbar .container h3{
+    font-size: 41px;
+    font-weight: 400;
+    font-family: 'Potta One', cursive;
+}
+span{
+    color: #F8BC17;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #353535;
+    font-weight: 500;
+  }
+  .nav-link:hover {
+    border-bottom: #353535 1px solid;
+  }
+  header{
+    width: auto;
+    height: 600px;
+  }
+  .hd_left{
+    padding-top: 10%;
+  }
+  .hd_left h2{
+    font-weight: 700;
+    font-size: 55px;
+  }
+  .hd_left p{
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .hd_left a{
+    
+    padding: 20px 50px 20px 50px;
+    background-color: #F8BC17;
+    border-radius: 15px;
+    color: #fff;
+    font-weight: 700;
+  }
+  .hd_left a:last-child{
+    padding: 20px 30px 20px 30px;
+  }
+  .hd_left a:hover{
+    background-color: rgba(255, 0, 0, 0);
+    border: 1px solid black;
+    color: #353535;
+    transition: .5s;
+  }
+  .hd_right{
+    margin-left: 90px;
+  }
+  .about_me{
+    margin-top: 144px;
+    width: auto;
+    height: 530px;
+    background-color: #F8BC17;
+    background-image: url("Rectangle\ 49.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .ab_right{
+    padding-top: 120px;
+    margin-left: 75px;
+  }
+  .ab_right h3{
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+  .ab_right p{
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .ab_right a{
+    padding: 20px 30px 20px 30px;
+    border: .5px solid black;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    color: #353535;
+    font-weight: 700;
+  }
+  .ab_right a:hover{
+    background-color: rgba(255, 0, 0, 0);
+    border: 1px solid black;
+  }
+.about_2{
+    padding-top: 144px;
+    width: auto;
+    height: 600px;
+    margin-left: 200px;
+}
+
+.cards_1{
+    height: 350px;
+    width: 300px;
+    margin-right: 20px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 1px 1px 25px 6px rgba(0, 0, 0, 0.13);
+    border-radius: 15px;
+}
+.cards_1 img{
+    padding-top: 40px;
+}
+.brand{
+    margin-left: 190px;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: 530px;
+    background-image: url("Rectangle\ 49.png");
+    border-radius: 70px;
+}
+.brand .br_left{
+    margin-top: 76px;
+    margin-left: 10px;
+}
+.br_right h3{
+    font-weight: 700;
+    font-size: 44px;
+    justify-content: center;
+}
+.br_right p{
+    font-weight: 400;
+    font-size: 18px;
+}
+.br_right{
+    padding-top: 180px;
+    margin-left: 100px;
+}
+.br_right a{
+    padding: 20px 40px 20px 40px;
+    border-radius: 20px;
+    border: 1px solid black ;
+    color:#353535;
+    text-decoration: none;
+    font-weight: 700;
+    
+}
